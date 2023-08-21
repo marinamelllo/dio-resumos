@@ -9,7 +9,7 @@ Repositório para armazeenar resumos sobre git e git hub de curso de versionamen
 
 ## 💻 Resumo das aulas 
 
-| Aulas | Resumos |
+| Aulas | Resumo |
 | ------|---------|
 | Gravando alterações do Repositório Local | [Resumos]
 () |
